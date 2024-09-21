@@ -31,16 +31,14 @@ global.packname = "Sticker By"
 global.author = "mkm43"
 global.creator = "923157843661@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["+923157843661
-		  
-		  "] // Premium User
+global.premium = ["+923157843661"] // Premium User
 global.hituet = 0
 
 //bot sett
 global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
-global.autoblocknumber = '92' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
+global.autoblocknumber = '91' //set autoblock country code
+global.antiforeignnumber = '92' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
